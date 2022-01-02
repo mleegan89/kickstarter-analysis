@@ -9,7 +9,7 @@
 ### Analysis of Outcomes Based on Launch Date
 Using the data given, we were able to analyze the outcomes of a fundraising campaign in relation to when that campaign launched. Looking at the data on the chart we are able to see that the month that had the most successful campaigns was May (111) followed by June (100). Similarly, the month wth the most faild campaigns was May (52) followed by July (50). It is interesting to note that while May had both the most successful and failed campaigns, the number of failed campaigns remained relatively consistent through all 12 months. 
 
-![Theater Outcomes Based on Launch Date] (C:\Users\mleegan\Desktop\UCF_Data_Course\Class_Folder\Crowdfunding_Analysis\ResourcesTheater_Outcomes_vs_Launch)
+![Theater Outcomes Based on Launch Date](github.com/mleegan89/kickstarter-analysis/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
