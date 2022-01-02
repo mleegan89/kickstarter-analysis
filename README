@@ -9,12 +9,12 @@
 ### Analysis of Outcomes Based on Launch Date
 In order to determine a fundraising campaign's outcome based on the launch date we first needed to utilize a pivot table. By doing so we were able to sum the successful, failed, and canceled campaigns correlated to the month that the campaign launched. The image below shows the distribution of these amounts over the 12 month calendar year.
 
-![Theater Outcomes Based on Launch Date](github.com/mleegan89/kickstarter-analysis/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes Based on Launch Date](github.com/mleegan89/kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 In order to determine a fundraising campaign's outcome based on the intial fundraising goal we first needed to create 12 data bands in which to analyze the results. We chose the 12 bands represented below on the chart. Using these bands, this allowed the distribution to be analyzed with prechosen distribution amounts instead of arbitraliy looking at the fundraising goal amounts. 
 
-![Outcomes Based on Goals](github.com/mleegan89/kickstarter-analysis/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](github.com/mleegan89/kickstarter-analysis/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 No difficulties were encountered when using the formulas to determine the results of this data. One difficulty that could have presented itself would have been months that little (or no) data existed. If this had been encountered we would have likely had to annotate that in all data graphics or remove that specific month from our analysis. 
