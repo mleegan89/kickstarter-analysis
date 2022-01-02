@@ -12,12 +12,12 @@ In order to determine a fundraising campaign's outcome based on the launch date 
 ![Theater Outcomes Based on Launch Date](github.com/mleegan89/kickstarter-analysis/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-In order to determine the a fundraising campaign's outcome based on the intial fundraising goal we first needed to create 12 data bands in which to analyze the results. We chose the 12 bands represented below on the chart. Using these bands, this allowed the distribution to be analyzed with prechosen distribution amounts instead of arbitraliy looking at the fundraising goal amounts. 
+In order to determine a fundraising campaign's outcome based on the intial fundraising goal we first needed to create 12 data bands in which to analyze the results. We chose the 12 bands represented below on the chart. Using these bands, this allowed the distribution to be analyzed with prechosen distribution amounts instead of arbitraliy looking at the fundraising goal amounts. 
 
 ![Outcomes Based on Goals](github.com/mleegan89/kickstarter-analysis/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-No difficulties where encountered when using the formulas to determine the results of this data. One difficulty that could have presented itself would have been months that little (or no) data existed. If this had been encountered we would have likely had to annotate that in all data graphics or remove that specific month for our analyzation. 
+No difficulties were encountered when using the formulas to determine the results of this data. One difficulty that could have presented itself would have been months that little (or no) data existed. If this had been encountered we would have likely had to annotate that in all data graphics or remove that specific month from our analysis. 
 
 ## Results
 
@@ -25,7 +25,10 @@ No difficulties where encountered when using the formulas to determine the resul
   Using the data given, we were able to analyze the outcomes of a fundraising campaign in relation to when that campaign launched.  Looking at the data on the chart we are able to see that the month that had the most successful campaigns was May (111) followed by June (100). Similarly, the month wth the most faild campaigns was May (52) followed by July (50). It is interesting to note that while May had both the most successful and failed campaigns, the number of failed campaigns remained relatively consistent through all 12 months. 
 
 - What can you conclude about the Outcomes based on Goals?
+  Based on our analyzation of the data given, it can be determined that the as fundraising goal increases the success rate decreases and failure rate increases.
 
 - What are some limitations of this dataset?
+None of this takes into account whether this is all recent data or data from many years ago. It would be more useful to track the success or failure of campagins over the last 2 years given the issues encountered with COVID. 
 
 - What are some other possible tables and/or graphs that we could create?
+ Other graphs to look at would be success/failure rate compared to Year started and success/failure rate based on number of backers. 
